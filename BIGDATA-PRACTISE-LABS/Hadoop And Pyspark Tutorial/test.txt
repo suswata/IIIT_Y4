@@ -1,0 +1,2 @@
+This is a test file used to calculate the word count in a give text file.
+This tutorial is part of ASBD Lab course and is done by CS20B1057 Dhanush.
